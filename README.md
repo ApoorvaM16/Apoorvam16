@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Apoorva Mamindla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1> 
 <h2 align="center">Passionate Full Stack Developer | Certified Agile Practitioner | MS in CS @GWU</h2>
 <h4 align="left">Glad to see you here!</h4>
-<p align="left">I'm an enthusiastic full-stack developer with 2.5 years of experience, skilled in Angular, React, and TypeScript for frontend development, alongside backend proficiency in Node.js and MongoDB. Continuously seeking new challenges and opportunities for growth in the ever-evolving tech industry.</p>
+<p align="left">I'm an enthusiastic full-stack developer with 2.5 years of experience, skilled in Angular, React, and TypeScript for frontend development, alongside backend proficiency in Node.js and MongoDB. Continuously seeking new challenges and opportunities for growth in the ever-evolving tech industry. For further details, please see below:</p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvam16&label=Profile%20views&color=0e75b6&style=flat" alt="apoorvam16" /> </p>
 
@@ -12,6 +12,8 @@
 - ✉️ You can reach me at **apoorva.mamindla30@gmail.com**
  
 - 🌍 I am based in Washington DC **but open to Relocation and Connect with Diverse Teams Globally**
+
+- 🧠 I am happy to engage in conversations related to: **Data Structures and Algorithms, Python/Java Programming, Computer concepts (Operating Systems, Computer Networking, Databases), Cloud Computing (AWS/GCP), and Linux**
 
 - ⚡ Let's unite our skills and ignite innovation! **Reach out, and let's embark on a journey of collaboration to create something remarkable together.**
 
