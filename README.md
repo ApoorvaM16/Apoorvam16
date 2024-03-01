@@ -2,7 +2,7 @@
 <h2 align="center">Passionate Full Stack Developer | Certified Agile Practitioner | MS in CS @GWU</h2>
 <h4 align="left">Glad to see you here!</h4>
 <p align="left">I'm an enthusiastic full-stack developer with 3 years of experience, skilled in Angular, React, and TypeScript for frontend development, alongside backend proficiency in Node.js and MongoDB. Continuously seeking new challenges and opportunities for growth in the ever-evolving tech industry. For further details, please see below:</p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="Coding" width="600" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvam16&label=Profile%20views&color=0e75b6&style=flat" alt="apoorvam16" /> </p>
 
 - 👨‍💻 I’m currently learning **Next.js and AWS**
